@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm an App developer with an ambition to continue learning<br><br>🔭 I’m currently working on solving real life problems<br>👯 I’m looking to collaborate on innovative ideas<br>🤝 I’m looking for help with implementing my ideas into projects<br>🌱 I’m currently learning Blockchain and AI<br>👨‍💻 All of my projects are available at https://github.com/Santhosh1209<br>💬 Ask me about App development using Flutter<br>⚡ Fun fact I love philosophy, it helps with introspection
+I'm an App developer with an ambition to continue learning<br><br>🔭 I’m currently working on solving real life problems<br>👯 I’m looking to collaborate on innovative ideas<br>🤝 I’m looking for help with implementing my ideas into projects<br>👨‍💻 All of my projects are available at https://github.com/Santhosh1209<br>💬 Ask me about App development using Flutter<br>⚡ Fun fact I love philosophy, it helps with introspection
 
 
 # 💻 Tech Stack:
